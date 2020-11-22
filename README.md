@@ -1,6 +1,13 @@
 # Things
 A collection of links to things that I've built.
 
+
+### Dark Mode Theme Toggle Animation
+https://codesandbox.io/s/dark-mode-theme-toggle-quz8j
+
+### Medium-Style Expandable Comment Box
+https://codesandbox.io/s/expandable-comment-box-fwo1b
+
 ### A Vertical Carousel Component
 https://codesandbox.io/s/vertical-carousel-component-f8yt5
 
