@@ -1,6 +1,11 @@
 # Things
-A collection of links to things that I've built.
+Just a list of things that I've built.
 
+### Audio Player Using React Hooks
+https://codesandbox.io/s/react-audio-player-demo-zwhoc
+
+### Animated Tabs With Framer Motion
+https://codesandbox.io/s/framer-motion-animated-tabs-jkckb
 
 ### Dark Mode Theme Toggle Animation
 https://codesandbox.io/s/dark-mode-theme-toggle-quz8j
