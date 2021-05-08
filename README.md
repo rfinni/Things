@@ -1,5 +1,5 @@
 # Things
-Just a some things that I've built.
+Just some things that I've built.
 
 ### Framer Motion Complex Animations
 https://codesandbox.io/s/framer-motion-complex-animation-i7ylq
