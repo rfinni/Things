@@ -1,6 +1,12 @@
 # Things
 Just some things that I've built.
 
+### 3D Hover Effect
+https://codesandbox.io/s/3d-hover-effect-hqy6h
+
+### Image Comparison Slider
+https://codesandbox.io/s/react-image-comparison-evpeu
+
 ### Framer Motion Complex Animations
 https://codesandbox.io/s/framer-motion-complex-animation-i7ylq
 
