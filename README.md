@@ -1,6 +1,9 @@
 # Things
 Just some things that I've built.
 
+### React Segmented Control Component
+https://codesandbox.io/s/react-segmented-control-krgq5
+
 ### React Drawer Component with Portals
 https://codesandbox.io/s/drawer-component-react-hooks-sg357
 
