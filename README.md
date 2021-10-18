@@ -1,6 +1,9 @@
 # Things
 Just some things that I've built.
 
+### Color Palette Component
+https://codesandbox.io/s/color-palette-react-ythuq
+
 ### React Segmented Control Component
 https://codesandbox.io/s/react-segmented-control-krgq5
 
