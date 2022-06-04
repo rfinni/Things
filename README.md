@@ -1,6 +1,9 @@
 # Things
 Just some things that I've built.
 
+### CSS Animated Icons
+https://codesandbox.io/s/animated-icons-7sqbx3
+
 ### Typing Text React Hook
 https://codesandbox.io/s/typing-text-react-hook-ndrvmo
 
