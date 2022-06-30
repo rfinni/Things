@@ -1,6 +1,9 @@
 # Things
 Just some things that I've built.
 
+### Animated Page Transitions in Next.js
+https://codesandbox.io/s/animated-page-transitions-in-nextjs-yb71o5
+
 ### CSS Animated Icons
 https://codesandbox.io/s/animated-icons-7sqbx3
 
