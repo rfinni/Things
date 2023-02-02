@@ -1,5 +1,8 @@
 # Things
-Just some things that I've built.
+Some Codesandbox links for things that I've built.
+
+### React Confetti Card
+https://codesandbox.io/s/react-confetti-card-ts7hn3
 
 ### Animated Page Transitions in Next.js
 https://codesandbox.io/s/animated-page-transitions-in-nextjs-yb71o5
