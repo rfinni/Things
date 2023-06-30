@@ -1,6 +1,9 @@
 # Things
 Some Codesandbox links for things that I've built.
 
+### React Animated Number Ticker
+https://codesandbox.io/s/animated-number-ticker-2qrld5
+
 ### React Confetti Card
 https://codesandbox.io/s/react-confetti-card-ts7hn3
 
