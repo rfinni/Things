@@ -1,6 +1,14 @@
 # Things
 Some Codesandbox links for things that I've built.
 
+### Working with Sound in React
+https://codesandbox.io/s/working-with-sound-in-react-click-j8xst7
+https://codesandbox.io/s/working-with-sound-in-react-message-xnhylp
+https://codesandbox.io/s/working-with-sound-in-react-input-validation-pkp8k5
+
+### Card Flip Animation
+https://codesandbox.io/s/card-flip-animation-mpvkqn
+
 ### Animated Social Share Links
 https://codesandbox.io/s/animated-social-share-links-334smm
 
