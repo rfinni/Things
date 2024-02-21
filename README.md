@@ -4,6 +4,9 @@ Some Codesandbox links for things that I've built.
 ### Reacting With Emojis
 https://codesandbox.io/p/sandbox/reacting-with-emojis-9hnltd
 
+### CSS Motion Path
+https://codesandbox.io/s/css-motion-path-zlyqc9
+
 ### Rotating Word Wheel
 https://codesandbox.io/s/rotating-word-wheel-tqn4vs
 
