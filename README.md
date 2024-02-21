@@ -1,6 +1,9 @@
 # Things
 Some Codesandbox links for things that I've built.
 
+### Reacting With Emojis
+https://codesandbox.io/p/sandbox/reacting-with-emojis-9hnltd
+
 ### Rotating Word Wheel
 https://codesandbox.io/s/rotating-word-wheel-tqn4vs
 
