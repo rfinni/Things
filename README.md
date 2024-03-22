@@ -1,6 +1,9 @@
 # Things
 Some Codesandbox links for things that I've built.
 
+### Animating Borders in CSS
+https://codesandbox.io/p/sandbox/css-animated-borders-lndvrx
+
 ### Reacting With Emojis
 https://codesandbox.io/p/sandbox/reacting-with-emojis-9hnltd
 
