@@ -1,6 +1,9 @@
 # Things
 Some Codesandbox links for things that I've built.
 
+### Dynamic Background Effect
+https://codesandbox.io/p/sandbox/react-dynamic-background-effect-h865gv
+
 ### Animating Borders in CSS
 https://codesandbox.io/p/sandbox/css-animated-borders-lndvrx
 
