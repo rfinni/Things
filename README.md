@@ -1,6 +1,9 @@
 # Things
 Some Codesandbox links for things that I've built.
 
+### Fun with Custom Cursors
+https://codesandbox.io/p/sandbox/fun-with-custom-cursors-xhzd9q
+
 ### Dynamic Background Effect
 https://codesandbox.io/p/sandbox/react-dynamic-background-effect-h865gv
 
