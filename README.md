@@ -1,5 +1,5 @@
 # Things
-Some Codesandbox links for things that I've built.
+A collection of Codesandbox links for things I've built.
 
 ### Fun with Custom Cursors
 https://codesandbox.io/p/sandbox/fun-with-custom-cursors-xhzd9q
